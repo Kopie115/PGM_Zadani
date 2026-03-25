@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net9.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\ta2220\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ta2220\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

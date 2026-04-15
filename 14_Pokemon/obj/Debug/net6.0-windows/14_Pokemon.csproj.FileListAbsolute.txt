@@ -1,0 +1,17 @@
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\bin\Debug\net6.0-windows\14_Pokemon.exe
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\bin\Debug\net6.0-windows\14_Pokemon.deps.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\bin\Debug\net6.0-windows\14_Pokemon.runtimeconfig.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\bin\Debug\net6.0-windows\14_Pokemon.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\bin\Debug\net6.0-windows\14_Pokemon.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.csproj.AssemblyReference.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\_14_Pokemon.Form1.resources
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.csproj.GenerateResource.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.AssemblyInfoInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.AssemblyInfo.cs
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\refint\14_Pokemon.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\14_Pokemon.genruntimeconfig.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\14_Pokemon\obj\Debug\net6.0-windows\ref\14_Pokemon.dll

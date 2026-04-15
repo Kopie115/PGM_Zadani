@@ -1,0 +1,34 @@
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.AssemblyReference.cache
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.Form1.resources
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.GenerateResource.cache
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.AssemblyInfoInputs.cache
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.AssemblyInfo.cs
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\Desktop\SAKO\bin\Debug\net6.0-windows\SAKO.exe
+C:\Users\ta2220\Desktop\SAKO\bin\Debug\net6.0-windows\SAKO.deps.json
+C:\Users\ta2220\Desktop\SAKO\bin\Debug\net6.0-windows\SAKO.runtimeconfig.json
+C:\Users\ta2220\Desktop\SAKO\bin\Debug\net6.0-windows\SAKO.dll
+C:\Users\ta2220\Desktop\SAKO\bin\Debug\net6.0-windows\SAKO.pdb
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.dll
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\refint\SAKO.dll
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.pdb
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\SAKO.genruntimeconfig.cache
+C:\Users\ta2220\Desktop\SAKO\obj\Debug\net6.0-windows\ref\SAKO.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\bin\Debug\net6.0-windows\SAKO.exe
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\bin\Debug\net6.0-windows\SAKO.deps.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\bin\Debug\net6.0-windows\SAKO.runtimeconfig.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\bin\Debug\net6.0-windows\SAKO.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\bin\Debug\net6.0-windows\SAKO.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.AssemblyReference.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.Form1.resources
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.GenerateResource.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.AssemblyInfoInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.AssemblyInfo.cs
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\refint\SAKO.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\SAKO.genruntimeconfig.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\SAKO\obj\Debug\net6.0-windows\ref\SAKO.dll

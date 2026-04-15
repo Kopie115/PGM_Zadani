@@ -1,0 +1,17 @@
+C:\Users\ta2220\Desktop\Filmotéka\bin\Debug\net6.0-windows\Filmotéka.exe
+C:\Users\ta2220\Desktop\Filmotéka\bin\Debug\net6.0-windows\Filmotéka.deps.json
+C:\Users\ta2220\Desktop\Filmotéka\bin\Debug\net6.0-windows\Filmotéka.runtimeconfig.json
+C:\Users\ta2220\Desktop\Filmotéka\bin\Debug\net6.0-windows\Filmotéka.dll
+C:\Users\ta2220\Desktop\Filmotéka\bin\Debug\net6.0-windows\Filmotéka.pdb
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.csproj.AssemblyReference.cache
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.Form1.resources
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.csproj.GenerateResource.cache
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.AssemblyInfoInputs.cache
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.AssemblyInfo.cs
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.dll
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\refint\Filmotéka.dll
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.pdb
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\Filmotéka.genruntimeconfig.cache
+C:\Users\ta2220\Desktop\Filmotéka\obj\Debug\net6.0-windows\ref\Filmotéka.dll

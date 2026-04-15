@@ -1,0 +1,34 @@
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.exe
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.deps.json
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.runtimeconfig.json
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.dll
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.pdb
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.AssemblyReference.cache
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.Form1.resources
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.GenerateResource.cache
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.AssemblyInfoInputs.cache
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.AssemblyInfo.cs
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.dll
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\refint\ZamestnanciSestavy.dll
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.pdb
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.genruntimeconfig.cache
+C:\Users\ta2220\source\repos\ZamestnanciSestavy\obj\Debug\net6.0-windows\ref\ZamestnanciSestavy.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.exe
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.deps.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.runtimeconfig.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\bin\Debug\net6.0-windows\ZamestnanciSestavy.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.AssemblyReference.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.Form1.resources
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.GenerateResource.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.AssemblyInfoInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.AssemblyInfo.cs
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\refint\ZamestnanciSestavy.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ZamestnanciSestavy.genruntimeconfig.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\ZamestnanciSestavy\obj\Debug\net6.0-windows\ref\ZamestnanciSestavy.dll

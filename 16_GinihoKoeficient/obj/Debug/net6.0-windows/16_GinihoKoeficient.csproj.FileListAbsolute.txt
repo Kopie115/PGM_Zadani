@@ -1,0 +1,17 @@
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\bin\Debug\net6.0-windows\16_GinihoKoeficient.exe
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\bin\Debug\net6.0-windows\16_GinihoKoeficient.deps.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\bin\Debug\net6.0-windows\16_GinihoKoeficient.runtimeconfig.json
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\bin\Debug\net6.0-windows\16_GinihoKoeficient.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\bin\Debug\net6.0-windows\16_GinihoKoeficient.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.csproj.AssemblyReference.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\_16_GinihoKoeficient.FormMain.resources
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.csproj.GenerateResource.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.AssemblyInfoInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.AssemblyInfo.cs
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.csproj.CoreCompileInputs.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\refint\16_GinihoKoeficient.dll
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.pdb
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\16_GinihoKoeficient.genruntimeconfig.cache
+C:\Users\ta2220\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\16_GinihoKoeficient\obj\Debug\net6.0-windows\ref\16_GinihoKoeficient.dll
